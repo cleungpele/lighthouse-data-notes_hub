@@ -3,6 +3,7 @@
 ###### This is an H6 header (smallest)
 ## Summary 
 
-This repository contains all of the notes taken by Chung for the Lighthouse Labs Data Science Bootcamp.
-[Chung](https://github.com/cleungpele
+This repository contains all of the notes taken by [Chung](https://github.com/cleungpele) for the Lighthouse Labs Data Science Bootcamp.
+
+
 [Lighthouse Labs](https://www.lighthouselabs.ca))
